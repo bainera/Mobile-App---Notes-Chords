@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Music Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="answer_text">Answer</string>
+    <string name="action_settings">Settings</string>
+    <string name="level_greeting" level_greeting="Guess The Note">Guess The Note</string>
+    <string name="level_button" level_button="Here The Note">Hear The Note</string>
+    <string android:id="@+id/string1" name="logo" android:layout_width="wrap_content" android:layout_height="wrap_content">appLogo</string>
+    <string name="pick_text">Enter Number</string>
+    <string name="do_button">DO</string>
+    <string name="re_button">RE</string>
+    <string name="mi_button">MI</string>
+    <string name="fa_button">FA</string>
+    <string name="sol_button">SOL</string>
+    <string name="la_button">LA</string>
+    <string name="si_button">SI</string>
+    <string name="chords_button">Chords</string>
+    <string name="title_activity_chords">ChordsActivity</string>
+    <string name="chord_button">Hear The Chord</string>
+    <string name="c_chord">C</string>
+    <string name="a_chord">A</string>
+    <string name="b_chord">B</string>
+    <string name="d_chord">D</string>
+    <string name="e_chord">E</string>
+    <string name="f_chord">F</string>
+    <string name="g_chord">G</string>
+    <string name="answer_text_chords">Answer</string>
+    <string name="APP_ID">701053429986213</string>
+    <string name="title_activity_meta">MetaActivity</string>
+    <string name="title_activity_metal">MetalActivity</string>
+    <string name="title_activity_metalactivity">Metalactivity</string>
+    <string name="metallica_button"></string>
+
+</resources>
